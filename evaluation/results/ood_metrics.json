@@ -1,0 +1,13 @@
+{
+  "auroc": 0.9028571428571429,
+  "fpr_at_tpr": 0.65,
+  "achieved_tpr": 0.9428571428571428,
+  "target_tpr": 0.95,
+  "threshold": -3.8951849937438965,
+  "ood_detection_rate": 0.75,
+  "in_distribution_diverted": 0.12857142857142856,
+  "probe_set_synthetic": true,
+  "n_probe": 20,
+  "mean_energy_id": -4.9528069496154785,
+  "mean_energy_ood": -3.340843677520752
+}

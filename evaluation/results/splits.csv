@@ -1,0 +1,473 @@
+text,category,urgency,split
+"What are the entry requirements for the Data Science programme, this is urgent as the deadline is today",Admissions,High,train
+"What are the entry requirements for the Data Science programme, the deadline is at the end of this week",Admissions,Medium,train
+"The the VLE system times out every time I open my dashboard, the deadline is at the end of this week",Learning Platform / IT Access,Medium,train
+"My tuition payment of 48,500 was deducted twice from my account and I need to plan around it soon",Fees and Payments,Medium,train
+"I was ill during the third exam and need to apply for a repeat, I would appreciate a reply within the next few days",Examinations,Medium,train
+"My academic record has an incorrect spelling of my name, how is it amended, please advise before the end of the week",Academic Documents,Medium,train
+"Can I collect my academic record in person from the office this week, the deadline is at the end of this week",Academic Documents,Medium,train
+"The the VLE portal shows an error whenever I try to upload work, this is urgent as the deadline is today",Learning Platform / IT Access,High,train
+"There is a clash between two lectures in my final timetable, please advise before the end of the week",Timetable and Scheduling,Medium,train
+"Can I pay the 48,500 balance in instalments this semester, please advise before the end of the week",Fees and Payments,Medium,train
+"There is an error in my first examination grade for one module, I need this resolved immediately, my exam is tomorrow",Examinations,High,train
+"I need a letter confirming my student status for visa application, no particular deadline on my side",General Administration,Low,train
+"There is a clash between two lectures in my second timetable, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+"My tutorial group was changed without notice in the first schedule, the deadline is at the end of this week",Timetable and Scheduling,Medium,train
+"Who should I contact about my postal address for the student union, no particular deadline on my side",General Administration,Low,train
+"How many places are available on the Data Science course this intake, please advise before the end of the week",Admissions,Medium,train
+"The the VLE system times out every time I open my dashboard, please advise before the end of the week",Learning Platform / IT Access,Medium,train
+"I submitted my application for Data Science but have not had a response, no particular deadline on my side",Admissions,Low,train
+"I need an official degree certificate sent to the embassy for my postgraduate application, no particular deadline on my side",Academic Documents,Low,train
+"Can you confirm the office opening hours during the vacation and it must be sorted out today, there is no workaround",General Administration,High,train
+"I would like to formally withdraw and need to know the procedure, I would appreciate a reply within the next few days",General Administration,Medium,train
+"The the VLE system times out every time I open my dashboard, this is a general question for next semester",Learning Platform / IT Access,Low,train
+"Who should I contact about my emergency contact for the student union, just for future planning",General Administration,Low,train
+"I submitted my application for Data Science but have not had a response, I would appreciate a reply within the next few days",Admissions,Medium,train
+"The first timetable has not been published for my programme yet, just for future planning",Timetable and Scheduling,Low,train
+"How do I update my my emergency contact on the student record system, no particular deadline on my side",General Administration,Low,train
+"The Moodle system times out every time I open my dashboard, please advise before the end of the week",Learning Platform / IT Access,Medium,train
+"Can you confirm the office opening hours during the vacation, just for future planning",General Administration,Low,train
+"I need a letter confirming my student status for job application, this is a general question for next semester",General Administration,Low,train
+"Can I pay the 75,000 balance in instalments this semester, no particular deadline on my side",Fees and Payments,Low,train
+"How do I update my my emergency contact on the student record system, I would appreciate a reply within the next few days",General Administration,Medium,train
+"What are the entry requirements for the Civil Engineering programme, this is urgent as the deadline is today",Admissions,High,train
+"Can you confirm the office opening hours during the vacation, the deadline is at the end of this week",General Administration,Medium,train
+"I would like to formally withdraw and need to know the procedure and it must be sorted out today, there is no workaround",General Administration,High,train
+"Can I transfer credits from another university into Business Administration, there is no rush, whenever convenient",Admissions,Low,train
+"My letter of completion has an incorrect spelling of my name, how is it amended and I need to plan around it soon",Academic Documents,Medium,train
+"My tuition payment of 48,500 was deducted twice from my account, just for future planning",Fees and Payments,Low,train
+"I submitted my application for Nursing but have not had a response, the deadline is at the end of this week",Admissions,Medium,train
+"Can I collect my transcript in person from the office this week, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"The final timetable has not been published for my programme yet, no particular deadline on my side",Timetable and Scheduling,Low,train
+"The portal still shows an outstanding balance of 12,000 after payment and it must be sorted out today, there is no workaround",Fees and Payments,High,train
+"Where is the examination hall for the final semester paper, the deadline is at the end of this week",Examinations,Medium,train
+"What are the entry requirements for the Data Science programme, I would appreciate a reply within the next few days",Admissions,Medium,train
+"I would like to formally withdraw and need to know the procedure, just for future planning",General Administration,Low,train
+"I need an official degree certificate sent to an overseas university for my job application, there is no rush, whenever convenient",Academic Documents,Low,train
+"I have no access to the Moodle module page for this semester, just for future planning",Learning Platform / IT Access,Low,train
+"What is the deadline for settling the 12,000 registration fee, please advise before the end of the week",Fees and Payments,Medium,train
+"Can I pay the 75,000 balance in instalments this semester, please treat as urgent, I am completely blocked",Fees and Payments,High,train
+"There is a clash between two lectures in my final timetable, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+"I was ill during the third exam and need to apply for a repeat, the deadline is at the end of this week",Examinations,Medium,train
+"When are the first semester examination results released, no particular deadline on my side",Examinations,Low,train
+"The the student portal portal shows an error whenever I try to upload work, no particular deadline on my side",Learning Platform / IT Access,Low,train
+"I would like to formally withdraw and need to know the procedure, there is no rush, whenever convenient",General Administration,Low,train
+"I submitted my application for Nursing but have not had a response, there is no rush, whenever convenient",Admissions,Low,train
+"Is the deadline for Nursing applications still open, just for future planning",Admissions,Low,train
+"The final timetable has not been published for my programme yet, please advise before the end of the week",Timetable and Scheduling,Medium,train
+"I was ill during the second exam and need to apply for a repeat, there is no rush, whenever convenient",Examinations,Low,train
+"My university email account has been locked and I cannot reset it, please treat as urgent, I am completely blocked",Learning Platform / IT Access,High,train
+"My tutorial group was changed without notice in the third schedule and it must be sorted out today, there is no workaround",Timetable and Scheduling,High,train
+"The the VLE system times out every time I open my dashboard, there is no rush, whenever convenient",Learning Platform / IT Access,Low,train
+"My degree certificate has an incorrect spelling of my name, how is it amended, this is a general question for next semester",Academic Documents,Low,train
+"Requesting a academic record for visa purposes, what is the processing time, please treat as urgent, I am completely blocked",Academic Documents,High,train
+"What is the deadline for settling the 25,000 registration fee and I need to plan around it soon",Fees and Payments,Medium,train
+"How do I update my my emergency contact on the student record system and it must be sorted out today, there is no workaround",General Administration,High,train
+"Can I collect my degree certificate in person from the office this week, please advise before the end of the week",Academic Documents,Medium,train
+"Can I pay the 12,000 balance in instalments this semester, this is urgent as the deadline is today",Fees and Payments,High,train
+"The the VLE system times out every time I open my dashboard, no particular deadline on my side",Learning Platform / IT Access,Low,train
+"There is an error in my second examination grade for one module, the deadline is at the end of this week",Examinations,Medium,train
+"I have not received a receipt for the 75,000 I paid last week, the deadline is at the end of this week",Fees and Payments,Medium,train
+"The the student portal system times out every time I open my dashboard, please treat as urgent, I am completely blocked",Learning Platform / IT Access,High,train
+"How do I request a certified copy of my academic record, just for future planning",Academic Documents,Low,train
+"There is a clash between two lectures in my first timetable, I need this resolved immediately, my exam is tomorrow",Timetable and Scheduling,High,train
+I have no access to the the VLE module page for this semester and I need to plan around it soon,Learning Platform / IT Access,Medium,train
+"What are the entry requirements for the Computer Science programme and it must be sorted out today, there is no workaround",Admissions,High,train
+"How many places are available on the Nursing course this intake, this is urgent as the deadline is today",Admissions,High,train
+"How do I update my my contact number on the student record system, the deadline is at the end of this week",General Administration,Medium,train
+"Which room is the second semester lecture being held in, no particular deadline on my side",Timetable and Scheduling,Low,train
+"I have not received a receipt for the 12,000 I paid last week and I need to plan around it soon",Fees and Payments,Medium,train
+"I have no access to the Moodle module page for this semester, please advise before the end of the week",Learning Platform / IT Access,Medium,train
+"Is the deadline for Data Science applications still open, I would appreciate a reply within the next few days",Admissions,Medium,train
+"Can I transfer credits from another university into Business Administration, I need this resolved immediately, my exam is tomorrow",Admissions,High,train
+"The portal still shows an outstanding balance of 75,000 after payment, this is urgent as the deadline is today",Fees and Payments,High,train
+"The portal still shows an outstanding balance of 48,500 after payment and I need to plan around it soon",Fees and Payments,Medium,train
+How do I update my my postal address on the student record system and I need to plan around it soon,General Administration,Medium,train
+"My tutorial group was changed without notice in the final schedule, this is a general question for next semester",Timetable and Scheduling,Low,train
+"There is a clash between two lectures in my first timetable, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"What are the entry requirements for the Computer Science programme, the deadline is at the end of this week",Admissions,Medium,train
+"How many places are available on the Business Administration course this intake, just for future planning",Admissions,Low,train
+"Can I pay the 48,500 balance in instalments this semester, there is no rush, whenever convenient",Fees and Payments,Low,train
+"My tutorial group was changed without notice in the first schedule, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+"How do I apply to re-sit the final semester paper, the deadline is at the end of this week",Examinations,Medium,train
+"Who should I contact about my postal address for the student union, please advise before the end of the week",General Administration,Medium,train
+"Is the deadline for Data Science applications still open, no particular deadline on my side",Admissions,Low,train
+"How many places are available on the Data Science course this intake, no particular deadline on my side",Admissions,Low,train
+"Is the deadline for Civil Engineering applications still open, please advise before the end of the week",Admissions,Medium,train
+"How do I update my my postal address on the student record system, no particular deadline on my side",General Administration,Low,train
+"I have not received a receipt for the 75,000 I paid last week and I need to plan around it soon",Fees and Payments,Medium,train
+"Can you confirm the office opening hours during the vacation, please advise before the end of the week",General Administration,Medium,train
+"There is an error in my third examination grade for one module, this is a general question for next semester",Examinations,Low,train
+"How many places are available on the Business Administration course this intake, please advise before the end of the week",Admissions,Medium,train
+"I have no access to the Moodle module page for this semester, there is no rush, whenever convenient",Learning Platform / IT Access,Low,train
+"When are the third semester examination results released and it must be sorted out today, there is no workaround",Examinations,High,train
+"Can I pay the 75,000 balance in instalments this semester, this is a general question for next semester",Fees and Payments,Low,train
+"The third timetable has not been published for my programme yet, this is urgent as the deadline is today",Timetable and Scheduling,High,train
+"How many places are available on the Computer Science course this intake, the deadline is at the end of this week",Admissions,Medium,train
+"My letter of completion has an incorrect spelling of my name, how is it amended, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"I have not received a receipt for the 48,500 I paid last week, please treat as urgent, I am completely blocked",Fees and Payments,High,train
+"There is a clash between two lectures in my second timetable, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"I would like to formally withdraw and need to know the procedure, this is a general question for next semester",General Administration,Low,train
+"Can you confirm the office opening hours during the vacation, I would appreciate a reply within the next few days",General Administration,Medium,train
+"Can you confirm the office opening hours during the vacation, please treat as urgent, I am completely blocked",General Administration,High,train
+"How do I update my my postal address on the student record system, I would appreciate a reply within the next few days",General Administration,Medium,train
+"My tutorial group was changed without notice in the first schedule, just for future planning",Timetable and Scheduling,Low,train
+"The portal still shows an outstanding balance of 12,000 after payment, the deadline is at the end of this week",Fees and Payments,Medium,train
+"Can I pay the 12,000 balance in instalments this semester, I would appreciate a reply within the next few days",Fees and Payments,Medium,train
+"Which room is the final semester lecture being held in, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"My transcript has an incorrect spelling of my name, how is it amended and I need to plan around it soon",Academic Documents,Medium,train
+There is a clash between two lectures in my final timetable and I need to plan around it soon,Timetable and Scheduling,Medium,train
+"My letter of completion has an incorrect spelling of my name, how is it amended and it must be sorted out today, there is no workaround",Academic Documents,High,train
+"My tutorial group was changed without notice in the second schedule, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"Where is the examination hall for the final semester paper, I would appreciate a reply within the next few days",Examinations,Medium,train
+"What are the entry requirements for the Nursing programme, there is no rush, whenever convenient",Admissions,Low,train
+"I have no access to the the student portal module page for this semester, this is a general question for next semester",Learning Platform / IT Access,Low,train
+"Can you confirm the office opening hours during the vacation, no particular deadline on my side",General Administration,Low,train
+"How many places are available on the Business Administration course this intake, there is no rush, whenever convenient",Admissions,Low,train
+"How do I apply to re-sit the third semester paper, this is a general question for next semester",Examinations,Low,train
+"My tutorial group was changed without notice in the final schedule, I need this resolved immediately, my exam is tomorrow",Timetable and Scheduling,High,train
+"Can I pay the 12,000 balance in instalments this semester and I need to plan around it soon",Fees and Payments,Medium,train
+"Can I transfer credits from another university into Computer Science, this is a general question for next semester",Admissions,Low,train
+"I have no access to the the VLE module page for this semester, the deadline is at the end of this week",Learning Platform / IT Access,Medium,train
+"The Moodle portal shows an error whenever I try to upload work and it must be sorted out today, there is no workaround",Learning Platform / IT Access,High,train
+"My tutorial group was changed without notice in the final schedule, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+"Who should I contact about my postal address for the student union, this is urgent as the deadline is today",General Administration,High,train
+"My tuition payment of 75,000 was deducted twice from my account, just for future planning",Fees and Payments,Low,train
+"I cannot log in to the learning platform, it rejects my password, I would appreciate a reply within the next few days",Learning Platform / IT Access,Medium,train
+"What is the deadline for settling the 75,000 registration fee, I need this resolved immediately, my exam is tomorrow",Fees and Payments,High,train
+"How many places are available on the Nursing course this intake, I need this resolved immediately, my exam is tomorrow",Admissions,High,train
+"My university email account has been locked and I cannot reset it, I would appreciate a reply within the next few days",Learning Platform / IT Access,Medium,train
+"My tutorial group was changed without notice in the second schedule, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"What is the deadline for settling the 12,000 registration fee, no particular deadline on my side",Fees and Payments,Low,train
+"Who should I contact about my emergency contact for the student union, please advise before the end of the week",General Administration,Medium,train
+"Requesting a academic record for visa purposes, what is the processing time, there is no rush, whenever convenient",Academic Documents,Low,train
+"My tutorial group was changed without notice in the second schedule, this is a general question for next semester",Timetable and Scheduling,Low,train
+"I cannot log in to the learning platform, it rejects my password, please treat as urgent, I am completely blocked",Learning Platform / IT Access,High,train
+"Can I move to a different tutorial slot in the third timetable, the deadline is at the end of this week",Timetable and Scheduling,Medium,train
+"Which room is the third semester lecture being held in, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"There is a clash between two lectures in my second timetable, I need this resolved immediately, my exam is tomorrow",Timetable and Scheduling,High,train
+"There is an error in my final examination grade for one module, this is a general question for next semester",Examinations,Low,train
+"Requesting a transcript for visa purposes, what is the processing time, this is a general question for next semester",Academic Documents,Low,train
+How do I update my my emergency contact on the student record system and I need to plan around it soon,General Administration,Medium,train
+"I have no access to the Moodle module page for this semester, the deadline is at the end of this week",Learning Platform / IT Access,Medium,train
+Can I collect my degree certificate in person from the office this week and I need to plan around it soon,Academic Documents,Medium,train
+"What is the deadline for settling the 75,000 registration fee, the deadline is at the end of this week",Fees and Payments,Medium,train
+"What are the entry requirements for the Civil Engineering programme, this is a general question for next semester",Admissions,Low,train
+How do I request a certified copy of my transcript and I need to plan around it soon,Academic Documents,Medium,train
+"The second timetable has not been published for my programme yet, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"Where is the examination hall for the first semester paper, this is a general question for next semester",Examinations,Low,train
+"The third timetable has not been published for my programme yet, just for future planning",Timetable and Scheduling,Low,train
+"I need an official degree certificate sent to an overseas university for my visa application, the deadline is at the end of this week",Academic Documents,Medium,train
+"Can I pay the 25,000 balance in instalments this semester and I need to plan around it soon",Fees and Payments,Medium,train
+"I cannot log in to the learning platform, it rejects my password, no particular deadline on my side",Learning Platform / IT Access,Low,train
+"My degree certificate has an incorrect spelling of my name, how is it amended, there is no rush, whenever convenient",Academic Documents,Low,train
+Can I move to a different tutorial slot in the second timetable and I need to plan around it soon,Timetable and Scheduling,Medium,train
+"The portal still shows an outstanding balance of 12,000 after payment, no particular deadline on my side",Fees and Payments,Low,train
+"My tuition payment of 12,000 was deducted twice from my account and I need to plan around it soon",Fees and Payments,Medium,train
+There is an error in my second examination grade for one module and I need to plan around it soon,Examinations,Medium,train
+"There is a clash between two lectures in my third timetable, this is urgent as the deadline is today",Timetable and Scheduling,High,train
+"The portal still shows an outstanding balance of 25,000 after payment, please advise before the end of the week",Fees and Payments,Medium,train
+"How do I update my my emergency contact on the student record system, the deadline is at the end of this week",General Administration,Medium,train
+"Can I move to a different tutorial slot in the first timetable, please advise before the end of the week",Timetable and Scheduling,Medium,train
+"How do I request a certified copy of my letter of completion, this is urgent as the deadline is today",Academic Documents,High,train
+"What are the entry requirements for the Computer Science programme, just for future planning",Admissions,Low,train
+"Where is the examination hall for the first semester paper, there is no rush, whenever convenient",Examinations,Low,train
+"How many places are available on the Computer Science course this intake, this is urgent as the deadline is today",Admissions,High,train
+How do I apply to re-sit the final semester paper and I need to plan around it soon,Examinations,Medium,train
+"What is the deadline for settling the 25,000 registration fee, please advise before the end of the week",Fees and Payments,Medium,train
+"I submitted my application for Business Administration but have not had a response, please advise before the end of the week",Admissions,Medium,train
+"How many places are available on the Business Administration course this intake, please treat as urgent, I am completely blocked",Admissions,High,train
+"I need an official letter of completion sent to an overseas university for my visa application, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"When are the third semester examination results released, I need this resolved immediately, my exam is tomorrow",Examinations,High,train
+"Who should I contact about my emergency contact for the student union, please treat as urgent, I am completely blocked",General Administration,High,train
+"I submitted my application for Computer Science but have not had a response, I would appreciate a reply within the next few days",Admissions,Medium,train
+"Is the deadline for Business Administration applications still open, I need this resolved immediately, my exam is tomorrow",Admissions,High,train
+"What is the deadline for settling the 75,000 registration fee, this is a general question for next semester",Fees and Payments,Low,train
+"My tutorial group was changed without notice in the second schedule, no particular deadline on my side",Timetable and Scheduling,Low,train
+"My academic record has an incorrect spelling of my name, how is it amended, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"My transcript has an incorrect spelling of my name, how is it amended, this is urgent as the deadline is today",Academic Documents,High,train
+"Requesting a letter of completion for visa purposes, what is the processing time, the deadline is at the end of this week",Academic Documents,Medium,train
+"There is an error in my second examination grade for one module, I would appreciate a reply within the next few days",Examinations,Medium,train
+I was ill during the third exam and need to apply for a repeat and I need to plan around it soon,Examinations,Medium,train
+"I submitted my application for Business Administration but have not had a response, I would appreciate a reply within the next few days",Admissions,Medium,train
+"When are the first semester examination results released, this is a general question for next semester",Examinations,Low,train
+"How do I request a certified copy of my letter of completion, please advise before the end of the week",Academic Documents,Medium,train
+"Which room is the second semester lecture being held in, just for future planning",Timetable and Scheduling,Low,train
+"How do I apply to re-sit the second semester paper, this is a general question for next semester",Examinations,Low,train
+"I have no access to the the VLE module page for this semester, this is a general question for next semester",Learning Platform / IT Access,Low,train
+"Can I move to a different tutorial slot in the second timetable, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"My transcript has an incorrect spelling of my name, how is it amended, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"I was ill during the third exam and need to apply for a repeat and it must be sorted out today, there is no workaround",Examinations,High,train
+"Can you confirm the office opening hours during the vacation, this is urgent as the deadline is today",General Administration,High,train
+"Is the deadline for Computer Science applications still open, no particular deadline on my side",Admissions,Low,train
+"My degree certificate has an incorrect spelling of my name, how is it amended and I need to plan around it soon",Academic Documents,Medium,train
+"I need an official academic record sent to an overseas university for my job application, please advise before the end of the week",Academic Documents,Medium,train
+"I have no access to the the VLE module page for this semester, there is no rush, whenever convenient",Learning Platform / IT Access,Low,train
+"How do I request a certified copy of my degree certificate and it must be sorted out today, there is no workaround",Academic Documents,High,train
+"How do I request a certified copy of my academic record, there is no rush, whenever convenient",Academic Documents,Low,train
+"Requesting a transcript for visa purposes, what is the processing time, just for future planning",Academic Documents,Low,train
+"Which room is the third semester lecture being held in, please advise before the end of the week",Timetable and Scheduling,Medium,train
+"What are the entry requirements for the Data Science programme, this is a general question for next semester",Admissions,Low,train
+"Which room is the final semester lecture being held in, just for future planning",Timetable and Scheduling,Low,train
+"Which room is the first semester lecture being held in, please treat as urgent, I am completely blocked",Timetable and Scheduling,High,train
+"Where is the examination hall for the final semester paper, please advise before the end of the week",Examinations,Medium,train
+"My tutorial group was changed without notice in the third schedule, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+"How do I apply to re-sit the final semester paper, this is a general question for next semester",Examinations,Low,train
+"There is a clash between two lectures in my final timetable, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"My academic record has an incorrect spelling of my name, how is it amended and it must be sorted out today, there is no workaround",Academic Documents,High,train
+"There is an error in my final examination grade for one module, please advise before the end of the week",Examinations,Medium,train
+"I need a letter confirming my student status for job application and it must be sorted out today, there is no workaround",General Administration,High,train
+"Can I transfer credits from another university into Business Administration, no particular deadline on my side",Admissions,Low,train
+"My academic record has an incorrect spelling of my name, how is it amended, there is no rush, whenever convenient",Academic Documents,Low,train
+"The first timetable has not been published for my programme yet, the deadline is at the end of this week",Timetable and Scheduling,Medium,train
+"How do I update my my contact number on the student record system, no particular deadline on my side",General Administration,Low,train
+"The third timetable has not been published for my programme yet, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"What is the deadline for settling the 12,000 registration fee, the deadline is at the end of this week",Fees and Payments,Medium,train
+"Can I move to a different tutorial slot in the second timetable, just for future planning",Timetable and Scheduling,Low,train
+"My tuition payment of 25,000 was deducted twice from my account, the deadline is at the end of this week",Fees and Payments,Medium,train
+"There is an error in my second examination grade for one module, please treat as urgent, I am completely blocked",Examinations,High,train
+"How do I update my my contact number on the student record system, just for future planning",General Administration,Low,train
+"I need a letter confirming my student status for postgraduate application, this is a general question for next semester",General Administration,Low,train
+Can I move to a different tutorial slot in the first timetable and I need to plan around it soon,Timetable and Scheduling,Medium,train
+"My tutorial group was changed without notice in the final schedule, just for future planning",Timetable and Scheduling,Low,train
+"Is the deadline for Nursing applications still open and it must be sorted out today, there is no workaround",Admissions,High,train
+"Can I transfer credits from another university into Data Science, no particular deadline on my side",Admissions,Low,train
+"Requesting a letter of completion for visa purposes, what is the processing time, please treat as urgent, I am completely blocked",Academic Documents,High,train
+"How do I update my my contact number on the student record system, I need this resolved immediately, my exam is tomorrow",General Administration,High,train
+"What is the deadline for settling the 48,500 registration fee, please treat as urgent, I am completely blocked",Fees and Payments,High,train
+"Can I move to a different tutorial slot in the first timetable, the deadline is at the end of this week",Timetable and Scheduling,Medium,train
+"Can I transfer credits from another university into Data Science, I would appreciate a reply within the next few days",Admissions,Medium,train
+I would like to formally withdraw and need to know the procedure and I need to plan around it soon,General Administration,Medium,train
+"I would like to formally withdraw and need to know the procedure, the deadline is at the end of this week",General Administration,Medium,train
+"Is the deadline for Nursing applications still open, I need this resolved immediately, my exam is tomorrow",Admissions,High,train
+"The portal still shows an outstanding balance of 75,000 after payment, there is no rush, whenever convenient",Fees and Payments,Low,train
+"I need a letter confirming my student status for visa application, please advise before the end of the week",General Administration,Medium,train
+"Is the deadline for Civil Engineering applications still open, just for future planning",Admissions,Low,train
+"My university email account has been locked and I cannot reset it, no particular deadline on my side",Learning Platform / IT Access,Low,train
+"There is an error in my third examination grade for one module, I would appreciate a reply within the next few days",Examinations,Medium,train
+"When are the third semester examination results released, no particular deadline on my side",Examinations,Low,train
+"My letter of completion has an incorrect spelling of my name, how is it amended, this is urgent as the deadline is today",Academic Documents,High,train
+"I cannot log in to the learning platform, it rejects my password, just for future planning",Learning Platform / IT Access,Low,train
+"Can I move to a different tutorial slot in the second timetable, this is urgent as the deadline is today",Timetable and Scheduling,High,train
+"My tutorial group was changed without notice in the first schedule, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"What is the deadline for settling the 75,000 registration fee, just for future planning",Fees and Payments,Low,train
+"How do I apply to re-sit the third semester paper, I need this resolved immediately, my exam is tomorrow",Examinations,High,train
+"My degree certificate has an incorrect spelling of my name, how is it amended, just for future planning",Academic Documents,Low,train
+"Can I transfer credits from another university into Civil Engineering, just for future planning",Admissions,Low,train
+"Where is the examination hall for the first semester paper, please advise before the end of the week",Examinations,Medium,train
+"The Moodle portal shows an error whenever I try to upload work, I would appreciate a reply within the next few days",Learning Platform / IT Access,Medium,train
+"My university email account has been locked and I cannot reset it, this is a general question for next semester",Learning Platform / IT Access,Low,train
+"I need a letter confirming my student status for visa application, the deadline is at the end of this week",General Administration,Medium,train
+"I have no access to the the student portal module page for this semester, the deadline is at the end of this week",Learning Platform / IT Access,Medium,train
+"How do I update my my emergency contact on the student record system, there is no rush, whenever convenient",General Administration,Low,train
+"Can I collect my degree certificate in person from the office this week, just for future planning",Academic Documents,Low,train
+"The the VLE system times out every time I open my dashboard, this is urgent as the deadline is today",Learning Platform / IT Access,High,train
+"I need an official transcript sent to an overseas university for my visa application, I would appreciate a reply within the next few days",Academic Documents,Medium,train
+"I was ill during the final exam and need to apply for a repeat, please advise before the end of the week",Examinations,Medium,train
+"The portal still shows an outstanding balance of 75,000 after payment, I would appreciate a reply within the next few days",Fees and Payments,Medium,train
+"The Moodle system times out every time I open my dashboard, this is a general question for next semester",Learning Platform / IT Access,Low,train
+"Can I collect my letter of completion in person from the office this week, I need this resolved immediately, my exam is tomorrow",Academic Documents,High,train
+Where is the examination hall for the final semester paper and I need to plan around it soon,Examinations,Medium,train
+"Which room is the third semester lecture being held in, the deadline is at the end of this week",Timetable and Scheduling,Medium,train
+"How do I update my my postal address on the student record system, just for future planning",General Administration,Low,train
+"I need an official letter of completion sent to the embassy for my job application, this is urgent as the deadline is today",Academic Documents,High,train
+"Can I transfer credits from another university into Nursing, just for future planning",Admissions,Low,train
+"How do I update my my postal address on the student record system, please treat as urgent, I am completely blocked",General Administration,High,train
+"I submitted my application for Data Science but have not had a response, the deadline is at the end of this week",Admissions,Medium,train
+Who should I contact about my emergency contact for the student union and I need to plan around it soon,General Administration,Medium,train
+"The final timetable has not been published for my programme yet, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"My tuition payment of 48,500 was deducted twice from my account, there is no rush, whenever convenient",Fees and Payments,Low,train
+"Where is the examination hall for the first semester paper, I would appreciate a reply within the next few days",Examinations,Medium,train
+"How many places are available on the Data Science course this intake, just for future planning",Admissions,Low,train
+"The the VLE portal shows an error whenever I try to upload work, the deadline is at the end of this week",Learning Platform / IT Access,Medium,train
+"Who should I contact about my contact number for the student union, please advise before the end of the week",General Administration,Medium,train
+"When are the second semester examination results released, the deadline is at the end of this week",Examinations,Medium,train
+"I submitted my application for Nursing but have not had a response, I need this resolved immediately, my exam is tomorrow",Admissions,High,train
+"I submitted my application for Computer Science but have not had a response, just for future planning",Admissions,Low,train
+"Requesting a academic record for visa purposes, what is the processing time, this is urgent as the deadline is today",Academic Documents,High,train
+"My academic record has an incorrect spelling of my name, how is it amended, this is urgent as the deadline is today",Academic Documents,High,train
+"What is the deadline for settling the 75,000 registration fee, I would appreciate a reply within the next few days",Fees and Payments,Medium,train
+"How many places are available on the Nursing course this intake, please treat as urgent, I am completely blocked",Admissions,High,train
+"My transcript has an incorrect spelling of my name, how is it amended, just for future planning",Academic Documents,Low,train
+The second timetable has not been published for my programme yet and I need to plan around it soon,Timetable and Scheduling,Medium,train
+"There is a clash between two lectures in my third timetable, there is no rush, whenever convenient",Timetable and Scheduling,Low,train
+I need an official academic record sent to the embassy for my job application and I need to plan around it soon,Academic Documents,Medium,train
+"There is a clash between two lectures in my first timetable, please advise before the end of the week",Timetable and Scheduling,Medium,train
+"I submitted my application for Nursing but have not had a response, please advise before the end of the week",Admissions,Medium,train
+"When are the second semester examination results released, there is no rush, whenever convenient",Examinations,Low,train
+"My transcript has an incorrect spelling of my name, how is it amended, please treat as urgent, I am completely blocked",Academic Documents,High,train
+"How do I apply to re-sit the first semester paper, please advise before the end of the week",Examinations,Medium,train
+"How do I apply to re-sit the second semester paper, no particular deadline on my side",Examinations,Low,train
+"I need an official letter of completion sent to a prospective employer for my job application and it must be sorted out today, there is no workaround",Academic Documents,High,train
+"Which room is the third semester lecture being held in, no particular deadline on my side",Timetable and Scheduling,Low,train
+"Can I move to a different tutorial slot in the second timetable, this is a general question for next semester",Timetable and Scheduling,Low,train
+"Is the deadline for Civil Engineering applications still open, no particular deadline on my side",Admissions,Low,train
+"Who should I contact about my contact number for the student union, this is a general question for next semester",General Administration,Low,train
+"I need a letter confirming my student status for job application, there is no rush, whenever convenient",General Administration,Low,train
+I have no access to the Moodle module page for this semester and I need to plan around it soon,Learning Platform / IT Access,Medium,train
+"Who should I contact about my emergency contact for the student union, this is urgent as the deadline is today",General Administration,High,train
+"Can you confirm the office opening hours during the vacation, this is a general question for next semester",General Administration,Low,train
+"How many places are available on the Data Science course this intake, the deadline is at the end of this week",Admissions,Medium,train
+"When are the first semester examination results released, please treat as urgent, I am completely blocked",Examinations,High,train
+"The the student portal portal shows an error whenever I try to upload work, I need this resolved immediately, my exam is tomorrow",Learning Platform / IT Access,High,train
+"I need a letter confirming my student status for visa application and it must be sorted out today, there is no workaround",General Administration,High,train
+"The portal still shows an outstanding balance of 48,500 after payment, the deadline is at the end of this week",Fees and Payments,Medium,train
+"The portal still shows an outstanding balance of 25,000 after payment, the deadline is at the end of this week",Fees and Payments,Medium,train
+"The third timetable has not been published for my programme yet, this is a general question for next semester",Timetable and Scheduling,Low,train
+"Is the deadline for Nursing applications still open, please advise before the end of the week",Admissions,Medium,train
+"How do I apply to re-sit the second semester paper, please advise before the end of the week",Examinations,Medium,train
+"I submitted my application for Civil Engineering but have not had a response, the deadline is at the end of this week",Admissions,Medium,train
+"Who should I contact about my postal address for the student union, I need this resolved immediately, my exam is tomorrow",General Administration,High,train
+How do I request a certified copy of my letter of completion and I need to plan around it soon,Academic Documents,Medium,train
+"What are the entry requirements for the Business Administration programme, please treat as urgent, I am completely blocked",Admissions,High,train
+"Which room is the first semester lecture being held in, I would appreciate a reply within the next few days",Timetable and Scheduling,Medium,train
+"There is an error in my first examination grade for one module, no particular deadline on my side",Examinations,Low,train
+"The the VLE portal shows an error whenever I try to upload work, there is no rush, whenever convenient",Learning Platform / IT Access,Low,train
+"My tuition payment of 75,000 was deducted twice from my account, I would appreciate a reply within the next few days",Fees and Payments,Medium,train
+"The third timetable has not been published for my programme yet, no particular deadline on my side",Timetable and Scheduling,Low,train
+"Who should I contact about my emergency contact for the student union, the deadline is at the end of this week",General Administration,Medium,train
+"How do I request a certified copy of my degree certificate, just for future planning",Academic Documents,Low,train
+Is the deadline for Nursing applications still open and I need to plan around it soon,Admissions,Medium,train
+"My tuition payment of 75,000 was deducted twice from my account, please treat as urgent, I am completely blocked",Fees and Payments,High,train
+"My tuition payment of 25,000 was deducted twice from my account and I need to plan around it soon",Fees and Payments,Medium,train
+"Where is the examination hall for the second semester paper, this is a general question for next semester",Examinations,Low,val
+"How do I update my my postal address on the student record system, please advise before the end of the week",General Administration,Medium,val
+"My tuition payment of 25,000 was deducted twice from my account, there is no rush, whenever convenient",Fees and Payments,Low,val
+"The portal still shows an outstanding balance of 25,000 after payment, I need this resolved immediately, my exam is tomorrow",Fees and Payments,High,val
+My university email account has been locked and I cannot reset it and I need to plan around it soon,Learning Platform / IT Access,Medium,val
+"My tuition payment of 12,000 was deducted twice from my account, please advise before the end of the week",Fees and Payments,Medium,val
+"My tuition payment of 75,000 was deducted twice from my account and I need to plan around it soon",Fees and Payments,Medium,val
+Can I move to a different tutorial slot in the third timetable and I need to plan around it soon,Timetable and Scheduling,Medium,val
+"I would like to formally withdraw and need to know the procedure, no particular deadline on my side",General Administration,Low,val
+"Requesting a letter of completion for visa purposes, what is the processing time, this is urgent as the deadline is today",Academic Documents,High,val
+"Can I move to a different tutorial slot in the final timetable, no particular deadline on my side",Timetable and Scheduling,Low,val
+"My letter of completion has an incorrect spelling of my name, how is it amended, no particular deadline on my side",Academic Documents,Low,val
+"How many places are available on the Computer Science course this intake, no particular deadline on my side",Admissions,Low,val
+"How do I request a certified copy of my transcript, please advise before the end of the week",Academic Documents,Medium,val
+"Requesting a transcript for visa purposes, what is the processing time, no particular deadline on my side",Academic Documents,Low,val
+"There is an error in my second examination grade for one module and it must be sorted out today, there is no workaround",Examinations,High,val
+"My tuition payment of 12,000 was deducted twice from my account, just for future planning",Fees and Payments,Low,val
+"I submitted my application for Civil Engineering but have not had a response, this is urgent as the deadline is today",Admissions,High,val
+"The the student portal system times out every time I open my dashboard, please advise before the end of the week",Learning Platform / IT Access,Medium,val
+"Can I collect my academic record in person from the office this week, just for future planning",Academic Documents,Low,val
+"Requesting a degree certificate for visa purposes, what is the processing time and I need to plan around it soon",Academic Documents,Medium,val
+"Can I collect my letter of completion in person from the office this week, please advise before the end of the week",Academic Documents,Medium,val
+"My university email account has been locked and I cannot reset it, the deadline is at the end of this week",Learning Platform / IT Access,Medium,val
+"The Moodle system times out every time I open my dashboard, no particular deadline on my side",Learning Platform / IT Access,Low,val
+"What is the deadline for settling the 48,500 registration fee and I need to plan around it soon",Fees and Payments,Medium,val
+"I have not received a receipt for the 48,500 I paid last week, no particular deadline on my side",Fees and Payments,Low,val
+"I have not received a receipt for the 12,000 I paid last week, there is no rush, whenever convenient",Fees and Payments,Low,val
+"Can I move to a different tutorial slot in the final timetable, please advise before the end of the week",Timetable and Scheduling,Medium,val
+"My tuition payment of 48,500 was deducted twice from my account, no particular deadline on my side",Fees and Payments,Low,val
+"How many places are available on the Civil Engineering course this intake, the deadline is at the end of this week",Admissions,Medium,val
+"How many places are available on the Civil Engineering course this intake, please treat as urgent, I am completely blocked",Admissions,High,val
+"Which room is the third semester lecture being held in, there is no rush, whenever convenient",Timetable and Scheduling,Low,val
+My tutorial group was changed without notice in the first schedule and I need to plan around it soon,Timetable and Scheduling,Medium,val
+"My letter of completion has an incorrect spelling of my name, how is it amended, there is no rush, whenever convenient",Academic Documents,Low,val
+"The portal still shows an outstanding balance of 75,000 after payment, please advise before the end of the week",Fees and Payments,Medium,val
+"How do I request a certified copy of my letter of completion, no particular deadline on my side",Academic Documents,Low,val
+"I need a letter confirming my student status for visa application, I would appreciate a reply within the next few days",General Administration,Medium,val
+"How many places are available on the Computer Science course this intake, there is no rush, whenever convenient",Admissions,Low,val
+"I submitted my application for Computer Science but have not had a response, please advise before the end of the week",Admissions,Medium,val
+"My academic record has an incorrect spelling of my name, how is it amended, please treat as urgent, I am completely blocked",Academic Documents,High,val
+Which room is the final semester lecture being held in and I need to plan around it soon,Timetable and Scheduling,Medium,val
+"I have not received a receipt for the 75,000 I paid last week, no particular deadline on my side",Fees and Payments,Low,val
+There is an error in my final examination grade for one module and I need to plan around it soon,Examinations,Medium,val
+"Can I move to a different tutorial slot in the final timetable, the deadline is at the end of this week",Timetable and Scheduling,Medium,val
+"How many places are available on the Business Administration course this intake and it must be sorted out today, there is no workaround",Admissions,High,val
+"There is a clash between two lectures in my third timetable and it must be sorted out today, there is no workaround",Timetable and Scheduling,High,val
+"I have no access to the Moodle module page for this semester, please treat as urgent, I am completely blocked",Learning Platform / IT Access,High,val
+"How do I request a certified copy of my academic record, this is a general question for next semester",Academic Documents,Low,val
+"I have not received a receipt for the 12,000 I paid last week, please advise before the end of the week",Fees and Payments,Medium,val
+"Who should I contact about my postal address for the student union, the deadline is at the end of this week",General Administration,Medium,val
+"The Moodle system times out every time I open my dashboard, the deadline is at the end of this week",Learning Platform / IT Access,Medium,val
+"I submitted my application for Civil Engineering but have not had a response, this is a general question for next semester",Admissions,Low,val
+"I have not received a receipt for the 48,500 I paid last week, please advise before the end of the week",Fees and Payments,Medium,val
+"My academic record has an incorrect spelling of my name, how is it amended, the deadline is at the end of this week",Academic Documents,Medium,val
+"I have no access to the Moodle module page for this semester and it must be sorted out today, there is no workaround",Learning Platform / IT Access,High,val
+"The the student portal portal shows an error whenever I try to upload work, please treat as urgent, I am completely blocked",Learning Platform / IT Access,High,val
+"Can I collect my degree certificate in person from the office this week, the deadline is at the end of this week",Academic Documents,Medium,val
+"The portal still shows an outstanding balance of 75,000 after payment, the deadline is at the end of this week",Fees and Payments,Medium,val
+"When are the third semester examination results released, please advise before the end of the week",Examinations,Medium,val
+"The portal still shows an outstanding balance of 12,000 after payment, I would appreciate a reply within the next few days",Fees and Payments,Medium,val
+"Who should I contact about my emergency contact for the student union, I would appreciate a reply within the next few days",General Administration,Medium,val
+"My tuition payment of 48,500 was deducted twice from my account, I would appreciate a reply within the next few days",Fees and Payments,Medium,val
+"When are the first semester examination results released and it must be sorted out today, there is no workaround",Examinations,High,val
+"What are the entry requirements for the Nursing programme, just for future planning",Admissions,Low,val
+"Can you confirm the office opening hours during the vacation, there is no rush, whenever convenient",General Administration,Low,val
+"Which room is the third semester lecture being held in, just for future planning",Timetable and Scheduling,Low,val
+"There is a clash between two lectures in my first timetable, no particular deadline on my side",Timetable and Scheduling,Low,val
+How many places are available on the Data Science course this intake and I need to plan around it soon,Admissions,Medium,val
+"The the VLE portal shows an error whenever I try to upload work, please advise before the end of the week",Learning Platform / IT Access,Medium,val
+When are the second semester examination results released and I need to plan around it soon,Examinations,Medium,val
+"The portal still shows an outstanding balance of 75,000 after payment, no particular deadline on my side",Fees and Payments,Low,val
+"My university email account has been locked and I cannot reset it, I need this resolved immediately, my exam is tomorrow",Learning Platform / IT Access,High,test
+"How do I update my my postal address on the student record system, the deadline is at the end of this week",General Administration,Medium,test
+"Which room is the first semester lecture being held in and it must be sorted out today, there is no workaround",Timetable and Scheduling,High,test
+"The portal still shows an outstanding balance of 48,500 after payment, this is a general question for next semester",Fees and Payments,Low,test
+"How do I request a certified copy of my letter of completion, I would appreciate a reply within the next few days",Academic Documents,Medium,test
+"My university email account has been locked and I cannot reset it, just for future planning",Learning Platform / IT Access,Low,test
+"Can I move to a different tutorial slot in the second timetable, I need this resolved immediately, my exam is tomorrow",Timetable and Scheduling,High,test
+"I need an official academic record sent to an overseas university for my job application, the deadline is at the end of this week",Academic Documents,Medium,test
+"When are the final semester examination results released, I would appreciate a reply within the next few days",Examinations,Medium,test
+"I cannot log in to the learning platform, it rejects my password and I need to plan around it soon",Learning Platform / IT Access,Medium,test
+"Is the deadline for Business Administration applications still open, please advise before the end of the week",Admissions,Medium,test
+"I was ill during the third exam and need to apply for a repeat, this is a general question for next semester",Examinations,Low,test
+"How many places are available on the Civil Engineering course this intake, I would appreciate a reply within the next few days",Admissions,Medium,test
+"My university email account has been locked and I cannot reset it, there is no rush, whenever convenient",Learning Platform / IT Access,Low,test
+"There is a clash between two lectures in my third timetable, the deadline is at the end of this week",Timetable and Scheduling,Medium,test
+"How do I request a certified copy of my transcript, please treat as urgent, I am completely blocked",Academic Documents,High,test
+"The the VLE system times out every time I open my dashboard, I need this resolved immediately, my exam is tomorrow",Learning Platform / IT Access,High,test
+"When are the final semester examination results released, this is urgent as the deadline is today",Examinations,High,test
+"The portal still shows an outstanding balance of 48,500 after payment, please advise before the end of the week",Fees and Payments,Medium,test
+"I submitted my application for Computer Science but have not had a response, this is a general question for next semester",Admissions,Low,test
+"The portal still shows an outstanding balance of 12,000 after payment, please advise before the end of the week",Fees and Payments,Medium,test
+"There is a clash between two lectures in my first timetable, this is a general question for next semester",Timetable and Scheduling,Low,test
+How do I apply to re-sit the second semester paper and I need to plan around it soon,Examinations,Medium,test
+There is a clash between two lectures in my third timetable and I need to plan around it soon,Timetable and Scheduling,Medium,test
+"Who should I contact about my emergency contact for the student union, there is no rush, whenever convenient",General Administration,Low,test
+"Can I pay the 12,000 balance in instalments this semester, no particular deadline on my side",Fees and Payments,Low,test
+"The Moodle portal shows an error whenever I try to upload work, the deadline is at the end of this week",Learning Platform / IT Access,Medium,test
+Can you confirm the office opening hours during the vacation and I need to plan around it soon,General Administration,Medium,test
+"Requesting a letter of completion for visa purposes, what is the processing time, there is no rush, whenever convenient",Academic Documents,Low,test
+"The portal still shows an outstanding balance of 25,000 after payment, there is no rush, whenever convenient",Fees and Payments,Low,test
+"The the student portal portal shows an error whenever I try to upload work, the deadline is at the end of this week",Learning Platform / IT Access,Medium,test
+"I have no access to the the student portal module page for this semester, there is no rush, whenever convenient",Learning Platform / IT Access,Low,test
+"My letter of completion has an incorrect spelling of my name, how is it amended, just for future planning",Academic Documents,Low,test
+"The second timetable has not been published for my programme yet, just for future planning",Timetable and Scheduling,Low,test
+"I need an official transcript sent to a prospective employer for my postgraduate application, please treat as urgent, I am completely blocked",Academic Documents,High,test
+"What is the deadline for settling the 75,000 registration fee, please treat as urgent, I am completely blocked",Fees and Payments,High,test
+When are the final semester examination results released and I need to plan around it soon,Examinations,Medium,test
+"Who should I contact about my contact number for the student union, the deadline is at the end of this week",General Administration,Medium,test
+"How do I update my my postal address on the student record system and it must be sorted out today, there is no workaround",General Administration,High,test
+"Where is the examination hall for the second semester paper, I would appreciate a reply within the next few days",Examinations,Medium,test
+"Can I pay the 25,000 balance in instalments this semester, I need this resolved immediately, my exam is tomorrow",Fees and Payments,High,test
+"How do I request a certified copy of my academic record, please advise before the end of the week",Academic Documents,Medium,test
+"Can I collect my letter of completion in person from the office this week, I would appreciate a reply within the next few days",Academic Documents,Medium,test
+"Can I collect my transcript in person from the office this week, no particular deadline on my side",Academic Documents,Low,test
+"How many places are available on the Civil Engineering course this intake, I need this resolved immediately, my exam is tomorrow",Admissions,High,test
+"I submitted my application for Computer Science but have not had a response, please treat as urgent, I am completely blocked",Admissions,High,test
+"I need a letter confirming my student status for job application, no particular deadline on my side",General Administration,Low,test
+"I cannot log in to the learning platform, it rejects my password, there is no rush, whenever convenient",Learning Platform / IT Access,Low,test
+"Can I collect my letter of completion in person from the office this week, this is urgent as the deadline is today",Academic Documents,High,test
+"Is the deadline for Civil Engineering applications still open and it must be sorted out today, there is no workaround",Admissions,High,test
+"When are the second semester examination results released, please advise before the end of the week",Examinations,Medium,test
+"Can I pay the 48,500 balance in instalments this semester, I would appreciate a reply within the next few days",Fees and Payments,Medium,test
+"There is a clash between two lectures in my first timetable, there is no rush, whenever convenient",Timetable and Scheduling,Low,test
+"Can I transfer credits from another university into Civil Engineering, no particular deadline on my side",Admissions,Low,test
+"Is the deadline for Nursing applications still open, the deadline is at the end of this week",Admissions,Medium,test
+"How do I apply to re-sit the third semester paper, there is no rush, whenever convenient",Examinations,Low,test
+"I submitted my application for Computer Science but have not had a response, there is no rush, whenever convenient",Admissions,Low,test
+"Can I pay the 12,000 balance in instalments this semester, this is a general question for next semester",Fees and Payments,Low,test
+I submitted my application for Computer Science but have not had a response and I need to plan around it soon,Admissions,Medium,test
+"How many places are available on the Nursing course this intake, I would appreciate a reply within the next few days",Admissions,Medium,test
+"How many places are available on the Civil Engineering course this intake, this is a general question for next semester",Admissions,Low,test
+"Which room is the final semester lecture being held in, the deadline is at the end of this week",Timetable and Scheduling,Medium,test
+"I have not received a receipt for the 12,000 I paid last week, I would appreciate a reply within the next few days",Fees and Payments,Medium,test
+Who should I contact about my contact number for the student union and I need to plan around it soon,General Administration,Medium,test
+"The Moodle portal shows an error whenever I try to upload work, no particular deadline on my side",Learning Platform / IT Access,Low,test
+My tutorial group was changed without notice in the final schedule and I need to plan around it soon,Timetable and Scheduling,Medium,test
+"Can I transfer credits from another university into Nursing, the deadline is at the end of this week",Admissions,Medium,test
+"The portal still shows an outstanding balance of 12,000 after payment, this is urgent as the deadline is today",Fees and Payments,High,test
+There is a clash between two lectures in my second timetable and I need to plan around it soon,Timetable and Scheduling,Medium,test
+"I submitted my application for Nursing but have not had a response, no particular deadline on my side",Admissions,Low,test

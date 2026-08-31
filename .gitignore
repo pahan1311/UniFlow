@@ -1,17 +1,32 @@
-# Trained models
+# Trained model weights (too large for git; keep in Drive / release assets)
 models/
+
+# Policy files are produced by the evaluation pipeline, not hand-edited.
+# They are small and reproducible, so they are NOT ignored -- committing
+# them records which thresholds a given result set was produced with.
+!models/calibration.json
+!models/thresholds.json
 
 # Python cache
 __pycache__/
 *.pyc
+.pytest_cache/
+.ruff_cache/
 
-# Environment
+# Environment and credentials
 .env
 .env.*
+!.env.example
 
 # Virtual environment
 venv/
 .venv/
 
-# Database
+# Databases
 *.db
+
+# Cached logits: large, regenerable, and invalid after retraining
+evaluation/results/logits_*.npy
+
+# Synthetic sample data must never be mistaken for the real corpus
+data/sample_inquiries.csv

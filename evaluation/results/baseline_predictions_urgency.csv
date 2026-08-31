@@ -1,0 +1,71 @@
+gold,text,majority,tfidf_lr,tfidf_svm
+High,"My university email account has been locked and I cannot reset it, I need this resolved immediately, my exam is tomorrow",Medium,High,High
+Medium,"How do I update my my postal address on the student record system, the deadline is at the end of this week",Medium,Medium,Medium
+High,"Which room is the first semester lecture being held in and it must be sorted out today, there is no workaround",Medium,High,High
+Low,"The portal still shows an outstanding balance of 48,500 after payment, this is a general question for next semester",Medium,Low,Low
+Medium,"How do I request a certified copy of my letter of completion, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Low,"My university email account has been locked and I cannot reset it, just for future planning",Medium,Low,Low
+High,"Can I move to a different tutorial slot in the second timetable, I need this resolved immediately, my exam is tomorrow",Medium,High,High
+Medium,"I need an official academic record sent to an overseas university for my job application, the deadline is at the end of this week",Medium,Medium,Medium
+Medium,"When are the final semester examination results released, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Medium,"I cannot log in to the learning platform, it rejects my password and I need to plan around it soon",Medium,Medium,Medium
+Medium,"Is the deadline for Business Administration applications still open, please advise before the end of the week",Medium,Medium,Medium
+Low,"I was ill during the third exam and need to apply for a repeat, this is a general question for next semester",Medium,Low,Low
+Medium,"How many places are available on the Civil Engineering course this intake, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Low,"My university email account has been locked and I cannot reset it, there is no rush, whenever convenient",Medium,Low,Low
+Medium,"There is a clash between two lectures in my third timetable, the deadline is at the end of this week",Medium,Medium,Medium
+High,"How do I request a certified copy of my transcript, please treat as urgent, I am completely blocked",Medium,High,High
+High,"The the VLE system times out every time I open my dashboard, I need this resolved immediately, my exam is tomorrow",Medium,High,High
+High,"When are the final semester examination results released, this is urgent as the deadline is today",Medium,High,High
+Medium,"The portal still shows an outstanding balance of 48,500 after payment, please advise before the end of the week",Medium,Medium,Medium
+Low,"I submitted my application for Computer Science but have not had a response, this is a general question for next semester",Medium,Low,Low
+Medium,"The portal still shows an outstanding balance of 12,000 after payment, please advise before the end of the week",Medium,Medium,Medium
+Low,"There is a clash between two lectures in my first timetable, this is a general question for next semester",Medium,Low,Low
+Medium,How do I apply to re-sit the second semester paper and I need to plan around it soon,Medium,Medium,Medium
+Medium,There is a clash between two lectures in my third timetable and I need to plan around it soon,Medium,Medium,Medium
+Low,"Who should I contact about my emergency contact for the student union, there is no rush, whenever convenient",Medium,Low,Low
+Low,"Can I pay the 12,000 balance in instalments this semester, no particular deadline on my side",Medium,Low,Low
+Medium,"The Moodle portal shows an error whenever I try to upload work, the deadline is at the end of this week",Medium,Medium,Medium
+Medium,Can you confirm the office opening hours during the vacation and I need to plan around it soon,Medium,Medium,Medium
+Low,"Requesting a letter of completion for visa purposes, what is the processing time, there is no rush, whenever convenient",Medium,Low,Low
+Low,"The portal still shows an outstanding balance of 25,000 after payment, there is no rush, whenever convenient",Medium,Low,Low
+Medium,"The the student portal portal shows an error whenever I try to upload work, the deadline is at the end of this week",Medium,Medium,Medium
+Low,"I have no access to the the student portal module page for this semester, there is no rush, whenever convenient",Medium,Low,Low
+Low,"My letter of completion has an incorrect spelling of my name, how is it amended, just for future planning",Medium,Low,Low
+Low,"The second timetable has not been published for my programme yet, just for future planning",Medium,Low,Low
+High,"I need an official transcript sent to a prospective employer for my postgraduate application, please treat as urgent, I am completely blocked",Medium,High,High
+High,"What is the deadline for settling the 75,000 registration fee, please treat as urgent, I am completely blocked",Medium,High,High
+Medium,When are the final semester examination results released and I need to plan around it soon,Medium,Medium,Medium
+Medium,"Who should I contact about my contact number for the student union, the deadline is at the end of this week",Medium,Medium,Medium
+High,"How do I update my my postal address on the student record system and it must be sorted out today, there is no workaround",Medium,High,High
+Medium,"Where is the examination hall for the second semester paper, I would appreciate a reply within the next few days",Medium,Medium,Medium
+High,"Can I pay the 25,000 balance in instalments this semester, I need this resolved immediately, my exam is tomorrow",Medium,High,High
+Medium,"How do I request a certified copy of my academic record, please advise before the end of the week",Medium,Medium,Medium
+Medium,"Can I collect my letter of completion in person from the office this week, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Low,"Can I collect my transcript in person from the office this week, no particular deadline on my side",Medium,Low,Low
+High,"How many places are available on the Civil Engineering course this intake, I need this resolved immediately, my exam is tomorrow",Medium,High,High
+High,"I submitted my application for Computer Science but have not had a response, please treat as urgent, I am completely blocked",Medium,High,High
+Low,"I need a letter confirming my student status for job application, no particular deadline on my side",Medium,Low,Low
+Low,"I cannot log in to the learning platform, it rejects my password, there is no rush, whenever convenient",Medium,Low,Low
+High,"Can I collect my letter of completion in person from the office this week, this is urgent as the deadline is today",Medium,High,High
+High,"Is the deadline for Civil Engineering applications still open and it must be sorted out today, there is no workaround",Medium,High,High
+Medium,"When are the second semester examination results released, please advise before the end of the week",Medium,Medium,Medium
+Medium,"Can I pay the 48,500 balance in instalments this semester, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Low,"There is a clash between two lectures in my first timetable, there is no rush, whenever convenient",Medium,Low,Low
+Low,"Can I transfer credits from another university into Civil Engineering, no particular deadline on my side",Medium,Low,Low
+Medium,"Is the deadline for Nursing applications still open, the deadline is at the end of this week",Medium,Medium,Medium
+Low,"How do I apply to re-sit the third semester paper, there is no rush, whenever convenient",Medium,Low,Low
+Low,"I submitted my application for Computer Science but have not had a response, there is no rush, whenever convenient",Medium,Low,Low
+Low,"Can I pay the 12,000 balance in instalments this semester, this is a general question for next semester",Medium,Low,Low
+Medium,I submitted my application for Computer Science but have not had a response and I need to plan around it soon,Medium,Medium,Medium
+Medium,"How many places are available on the Nursing course this intake, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Low,"How many places are available on the Civil Engineering course this intake, this is a general question for next semester",Medium,Low,Low
+Medium,"Which room is the final semester lecture being held in, the deadline is at the end of this week",Medium,Medium,Medium
+Medium,"I have not received a receipt for the 12,000 I paid last week, I would appreciate a reply within the next few days",Medium,Medium,Medium
+Medium,Who should I contact about my contact number for the student union and I need to plan around it soon,Medium,Medium,Medium
+Low,"The Moodle portal shows an error whenever I try to upload work, no particular deadline on my side",Medium,Low,Low
+Medium,My tutorial group was changed without notice in the final schedule and I need to plan around it soon,Medium,Medium,Medium
+Medium,"Can I transfer credits from another university into Nursing, the deadline is at the end of this week",Medium,Medium,Medium
+High,"The portal still shows an outstanding balance of 12,000 after payment, this is urgent as the deadline is today",Medium,High,High
+Medium,There is a clash between two lectures in my second timetable and I need to plan around it soon,Medium,Medium,Medium
+Low,"I submitted my application for Nursing but have not had a response, no particular deadline on my side",Medium,Low,Low

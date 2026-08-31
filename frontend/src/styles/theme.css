@@ -1,0 +1,384 @@
+/* theme.css
+   ---------
+   NSBM brand palette: Leaf/Light Green #00B052, Corporate Blue #0454A4,
+   Dark/Forest Green #00771D, on a white canvas. Green is the primary
+   interactive color (buttons, links, active states); blue distinguishes
+   the sidebar and "info" semantics. Everything below reads these as CSS
+   custom properties, so the palette lives in exactly one place. */
+
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap");
+
+:root {
+  --ink: #0f2419;
+  --muted: #5c6f65;
+  --green: #00b052;
+  --green-dark: #00771d;
+  --blue: #0454a4;
+  --blue-dark: #033b73;
+  --line: #e3e9e6;
+  --bg: #f7f9f8;
+  --card: #ffffff;
+  --border-accent: #a8e0c0;
+
+  --warn-bg: #fdf1dd;
+  --warn-fg: #8a5a10;
+  --danger-bg: #fde8e0;
+  --danger-fg: #9a3412;
+  --info-bg: #e6eef9;
+  --info-fg: #0454a4;
+  --pill-bg: #e3f8ec;
+  --pill-fg: #00771d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "DM Sans", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Manrope", sans-serif;
+  letter-spacing: -0.035em;
+  margin: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+a {
+  color: var(--green);
+}
+
+.hero {
+  background: linear-gradient(120deg, #00771d, #00b052 70%, #35d17e);
+  padding: 2rem 2.2rem;
+  border-radius: 22px;
+  color: white;
+  margin-bottom: 1.2rem;
+  box-shadow: 0 16px 40px #00771d2e;
+}
+.hero h1 {
+  font-size: 2rem;
+  color: white;
+}
+.hero p {
+  opacity: 0.82;
+  margin: 0.45rem 0 0;
+}
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  opacity: 0.75;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 5px 18px #00771d0b;
+}
+
+.metric-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.metric {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(145deg, #ffffff 20%, #f0faf5 100%);
+  border: 1px solid #d5eadf;
+  padding: 1.25rem 1.35rem;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px #00771d0d;
+}
+.metric::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #00771d, #00b052);
+}
+.metric-label {
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+.metric-value {
+  color: #0a2e1a;
+  font-family: "Manrope", sans-serif;
+  font-size: clamp(1.35rem, 2.1vw, 2.05rem);
+  font-weight: 800;
+  letter-spacing: -0.045em;
+  line-height: 1.2;
+  margin-top: 0.3rem;
+}
+.metric-delta {
+  display: inline-block;
+  width: fit-content;
+  margin-top: 0.3rem;
+  padding: 0.18rem 0.48rem;
+  border-radius: 999px;
+  background: var(--pill-bg);
+  color: var(--green-dark);
+  font-weight: 700;
+  font-size: 0.78rem;
+}
+.metric-delta.warn {
+  background: var(--danger-bg);
+  color: var(--danger-fg);
+}
+
+.ticket {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 1.1rem 1.2rem;
+  margin: 0.55rem 0;
+  box-shadow: 0 5px 18px #00771d0b;
+}
+.ticket.breached {
+  border-left: 5px solid #c2410c;
+}
+.ticket.at_risk {
+  border-left: 5px solid #d68c1a;
+}
+.ticket.duplicate {
+  border-left: 5px solid var(--blue);
+}
+.ticket-top {
+  display: flex;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 0.78rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.ticket-text {
+  margin: 0.65rem 0;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.pill {
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  background: var(--pill-bg);
+  color: var(--pill-fg);
+  font-size: 0.75rem;
+  margin: 0 0.3rem 0.2rem 0;
+}
+.pill.warn {
+  background: var(--warn-bg);
+  color: var(--warn-fg);
+}
+.pill.danger {
+  background: var(--danger-bg);
+  color: var(--danger-fg);
+}
+.pill.info {
+  background: var(--info-bg);
+  color: var(--info-fg);
+}
+
+button.btn {
+  border-radius: 10px;
+  font-weight: 700;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--border-accent);
+  background: white;
+  color: var(--pill-fg);
+  cursor: pointer;
+  box-shadow: 0 3px 9px #00771d0a;
+}
+button.btn:hover {
+  background: var(--pill-bg);
+  border-color: var(--green);
+}
+button.btn.primary {
+  background: var(--green);
+  border-color: var(--green);
+  color: white;
+}
+button.btn.primary:hover {
+  background: var(--green-dark);
+  border-color: var(--green-dark);
+}
+/* The "currently selected" state for a group of plain .btn buttons used
+   as tabs/segmented controls (ticket detail tabs, department tabs, queue
+   filters) -- one class instead of the same inline style object repeated
+   at every call site, so the brand color lives in one place. */
+button.btn.selected {
+  background: var(--green);
+  color: white;
+  border-color: var(--green);
+}
+button.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+input.field,
+select.field,
+textarea.field {
+  border-radius: 11px;
+  border: 1px solid var(--border-accent);
+  padding: 0.55rem 0.75rem;
+  background: white;
+  color: var(--ink);
+  width: 100%;
+}
+input.field:focus,
+select.field:focus,
+textarea.field:focus {
+  outline: 2px solid var(--green);
+  outline-offset: 1px;
+}
+
+.alert {
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--line);
+  background: #fbfefc;
+  margin: 0.6rem 0;
+}
+.alert.error {
+  background: var(--danger-bg);
+  border-color: #f3c8b4;
+  color: var(--danger-fg);
+}
+.alert.warn {
+  background: var(--warn-bg);
+  border-color: #f2ddab;
+  color: var(--warn-fg);
+}
+.alert.success {
+  background: var(--pill-bg);
+  border-color: var(--border-accent);
+  color: var(--pill-fg);
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: 15.5rem 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: linear-gradient(180deg, #033b73, #0454a4);
+  color: #e9f2fb;
+  padding: 1.4rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  /* Independent of the content column's height: pinned rather than
+     stretching to match however tall the page's content grows (CSS
+     Grid's default is to stretch every row item to the tallest one).
+     Scrolls on its own if its own content ever grows past one viewport,
+     instead of pushing the panel taller. The 1rem margin on three sides
+     is what makes it read as a floating card rather than a flush strip,
+     so height/top account for that inset instead of the full 100vh. */
+  position: sticky;
+  top: 1rem;
+  height: calc(100vh - 2rem);
+  margin: 1rem 0 1rem 1rem;
+  overflow-y: auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px #033b7326;
+}
+.sidebar h2 {
+  color: #e9f2fb;
+  margin: 0 0 0.2rem;
+}
+.sidebar .caption {
+  font-size: 0.78rem;
+  opacity: 0.8;
+}
+.sidebar hr {
+  border: none;
+  border-top: 1px solid #ffffff26;
+  margin: 1rem 0;
+}
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.sidebar nav a {
+  color: #e9f2fb;
+  text-decoration: none;
+  padding: 0.55rem 0.75rem;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.sidebar nav a:hover {
+  background: #ffffff18;
+}
+.sidebar nav a.active {
+  background: #ffffff26;
+}
+
+.content {
+  padding: 1.6rem 2rem;
+  max-width: 76rem;
+}
+
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 1.5rem;
+}
+.login-card {
+  max-width: 26rem;
+  width: 100%;
+}
+.field-group {
+  margin-bottom: 0.9rem;
+}
+.field-group label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.85rem;
+  margin-bottom: 0.3rem;
+  color: var(--green-dark);
+}
+
+table.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+table.data-table th,
+table.data-table td {
+  text-align: left;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--line);
+}
+table.data-table th {
+  color: var(--muted);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+}
