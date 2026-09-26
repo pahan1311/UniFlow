@@ -2,59 +2,59 @@
   "category": {
     "target_risk": 0.05,
     "target_met": true,
-    "temperature": 1.11381995677948,
+    "temperature": 0.6299486756324768,
     "validation_operating_point": {
-      "tau": 0.5642574429512024,
+      "tau": 0.5536720752716064,
       "coverage": 1.0,
-      "risk": 0.04225352112676062,
-      "accuracy_on_routed": 0.9577464788732394,
-      "n_auto_routed": 71,
+      "risk": 0.002083333333333326,
+      "accuracy_on_routed": 0.9979166666666667,
+      "n_auto_routed": 960,
       "n_triaged": 0,
-      "errors_among_routed": 3,
+      "errors_among_routed": 2,
       "errors_prevented": 0,
-      "full_coverage_risk": 0.04225352112676062
+      "full_coverage_risk": 0.002083333333333326
     },
     "test_operating_point": {
-      "tau": 0.5642574429512024,
-      "coverage": 0.9571428571428572,
-      "risk": 0.05970149253731338,
-      "accuracy_on_routed": 0.9402985074626866,
-      "n_auto_routed": 67,
-      "n_triaged": 3,
-      "errors_among_routed": 4,
-      "errors_prevented": 3,
-      "full_coverage_risk": 0.09999999999999998
+      "tau": 0.5536720752716064,
+      "coverage": 1.0,
+      "risk": 0.006362672322375418,
+      "accuracy_on_routed": 0.9936373276776246,
+      "n_auto_routed": 943,
+      "n_triaged": 0,
+      "errors_among_routed": 6,
+      "errors_prevented": 0,
+      "full_coverage_risk": 0.006362672322375418
     },
-    "aurc_val": 0.002193670925107528,
-    "aurc_test": 0.0081003652391509
+    "aurc_val": 7.627274768059946e-06,
+    "aurc_test": 2.4829753886388973e-05
   },
   "urgency": {
     "target_risk": 0.05,
     "target_met": true,
-    "temperature": 3.3352277278900146,
+    "temperature": 1.5688360929489136,
     "validation_operating_point": {
-      "tau": 0.8167760968208313,
-      "coverage": 0.36619718309859156,
-      "risk": 0.038461538461538436,
-      "accuracy_on_routed": 0.9615384615384616,
-      "n_auto_routed": 26,
-      "n_triaged": 45,
-      "errors_among_routed": 1,
-      "errors_prevented": 20,
-      "full_coverage_risk": 0.295774647887324
+      "tau": 0.5210306644439697,
+      "coverage": 1.0,
+      "risk": 0.038541666666666696,
+      "accuracy_on_routed": 0.9614583333333333,
+      "n_auto_routed": 960,
+      "n_triaged": 0,
+      "errors_among_routed": 37,
+      "errors_prevented": 0,
+      "full_coverage_risk": 0.038541666666666696
     },
     "test_operating_point": {
-      "tau": 0.8167760968208313,
-      "coverage": 0.21428571428571427,
-      "risk": 0.2666666666666667,
-      "accuracy_on_routed": 0.7333333333333333,
-      "n_auto_routed": 15,
-      "n_triaged": 55,
-      "errors_among_routed": 4,
-      "errors_prevented": 18,
-      "full_coverage_risk": 0.3142857142857143
+      "tau": 0.5210306644439697,
+      "coverage": 0.9978791092258749,
+      "risk": 0.019128586609989395,
+      "accuracy_on_routed": 0.9808714133900106,
+      "n_auto_routed": 941,
+      "n_triaged": 2,
+      "errors_among_routed": 18,
+      "errors_prevented": 0,
+      "full_coverage_risk": 0.019088016967126142
     },
-    "aurc_val": 0.15825240318391448,
-    "aurc_test": 0.2632501219168737
+    "aurc_val": 0.0028945931087095023,
+    "aurc_test": 0.0013524794955581474
   }
 }

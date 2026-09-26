@@ -35,7 +35,7 @@ RESULTS_DIR = BASE_DIR / "evaluation" / "results"
 DEFAULT_CSV = DATA_DIR / "inquiries.csv"
 
 TEXT_ALIASES = ["text", "student_query", "query", "inquiry", "message", "body"]
-CATEGORY_ALIASES = ["category", "department", "label", "category_label", "dept"]
+CATEGORY_ALIASES = ["category", "department", "label", "category_label", "dept", "university_category"]
 URGENCY_ALIASES = ["urgency", "priority", "urgency_label", "urgency_level"]
 
 SEED = 42

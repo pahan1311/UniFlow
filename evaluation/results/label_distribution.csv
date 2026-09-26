@@ -1,11 +1,11 @@
 task,label,count,share
-category,Admissions,80,0.1694915254237288
-category,Timetable and Scheduling,77,0.163135593220339
-category,Fees and Payments,71,0.1504237288135593
-category,Academic Documents,71,0.1504237288135593
-category,General Administration,64,0.13559322033898305
-category,Examinations,55,0.11652542372881355
-category,Learning Platform / IT Access,54,0.11440677966101695
-urgency,Medium,202,0.4279661016949153
-urgency,Low,166,0.3516949152542373
-urgency,High,104,0.22033898305084745
+category,Examinations,1633,0.15145613058801707
+category,Academic Documents,1576,0.1461695418289742
+category,Timetable and Scheduling,1535,0.14236690780931183
+category,Learning Platform / IT Access,1527,0.1416249304396216
+category,General Administration,1519,0.14088295306993137
+category,Admissions,1504,0.1394917455017622
+category,Fees and Payments,1488,0.13800779076238176
+urgency,Medium,3597,0.3336115748469672
+urgency,Low,3594,0.3333333333333333
+urgency,High,3591,0.3330550918196995

@@ -1,304 +1,304 @@
 {
   "category": {
     "majority": {
-      "accuracy": 0.14285714285714285,
-      "macro_f1": 0.03571428571428571,
-      "weighted_f1": 0.03571428571428571,
+      "accuracy": 0.07635206786850478,
+      "macro_f1": 0.02026741731175229,
+      "weighted_f1": 0.010832214554743536,
       "report": {
         "Academic Documents": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 10.0
+          "support": 127.0
         },
         "Admissions": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 14.0
+          "support": 144.0
         },
         "Examinations": {
-          "precision": 0.0,
-          "recall": 0.0,
-          "f1-score": 0.0,
-          "support": 8.0
+          "precision": 0.07635206786850478,
+          "recall": 1.0,
+          "f1-score": 0.14187192118226602,
+          "support": 72.0
         },
         "Fees and Payments": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 11.0
+          "support": 199.0
         },
         "General Administration": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 7.0
+          "support": 108.0
         },
         "Learning Platform / IT Access": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 10.0
+          "support": 145.0
         },
         "Timetable and Scheduling": {
-          "precision": 0.14285714285714285,
-          "recall": 1.0,
-          "f1-score": 0.25,
-          "support": 10.0
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 148.0
         },
-        "accuracy": 0.14285714285714285,
+        "accuracy": 0.07635206786850478,
         "macro avg": {
-          "precision": 0.02040816326530612,
+          "precision": 0.010907438266929253,
           "recall": 0.14285714285714285,
-          "f1-score": 0.03571428571428571,
-          "support": 70.0
+          "f1-score": 0.02026741731175229,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 0.02040816326530612,
-          "recall": 0.14285714285714285,
-          "f1-score": 0.03571428571428571,
-          "support": 70.0
+          "precision": 0.005829638267796759,
+          "recall": 0.07635206786850478,
+          "f1-score": 0.010832214554743536,
+          "support": 943.0
         }
       }
     },
     "tfidf_lr": {
-      "accuracy": 1.0,
-      "macro_f1": 1.0,
-      "weighted_f1": 1.0,
+      "accuracy": 0.985153764581124,
+      "macro_f1": 0.9865268525484592,
+      "weighted_f1": 0.985135813858089,
       "report": {
         "Academic Documents": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 10.0
+          "support": 127.0
         },
         "Admissions": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 14.0
+          "support": 144.0
         },
         "Examinations": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 8.0
+          "support": 72.0
         },
         "Fees and Payments": {
           "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 11.0
+          "recall": 0.9296482412060302,
+          "f1-score": 0.9635416666666666,
+          "support": 199.0
         },
         "General Administration": {
-          "precision": 1.0,
+          "precision": 0.9152542372881356,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 7.0
+          "f1-score": 0.9557522123893806,
+          "support": 108.0
         },
         "Learning Platform / IT Access": {
-          "precision": 1.0,
+          "precision": 0.9797297297297297,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 10.0
+          "f1-score": 0.9897610921501706,
+          "support": 145.0
         },
         "Timetable and Scheduling": {
-          "precision": 1.0,
+          "precision": 0.9932885906040269,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 10.0
+          "f1-score": 0.9966329966329966,
+          "support": 148.0
         },
-        "accuracy": 1.0,
+        "accuracy": 0.985153764581124,
         "macro avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9840389368031275,
+          "recall": 0.9899497487437185,
+          "f1-score": 0.9865268525484592,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9861240507394755,
+          "recall": 0.985153764581124,
+          "f1-score": 0.985135813858089,
+          "support": 943.0
         }
       }
     },
     "tfidf_svm": {
-      "accuracy": 1.0,
-      "macro_f1": 1.0,
-      "weighted_f1": 1.0,
+      "accuracy": 0.9925768822905621,
+      "macro_f1": 0.9923971874664463,
+      "weighted_f1": 0.9925653453160251,
       "report": {
         "Academic Documents": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 10.0
+          "support": 127.0
         },
         "Admissions": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 14.0
+          "support": 144.0
         },
         "Examinations": {
-          "precision": 1.0,
+          "precision": 0.972972972972973,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 8.0
+          "f1-score": 0.9863013698630136,
+          "support": 72.0
         },
         "Fees and Payments": {
           "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 11.0
+          "recall": 0.964824120603015,
+          "f1-score": 0.9820971867007673,
+          "support": 199.0
         },
         "General Administration": {
-          "precision": 1.0,
+          "precision": 0.9642857142857143,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 7.0
+          "f1-score": 0.9818181818181818,
+          "support": 108.0
         },
         "Learning Platform / IT Access": {
-          "precision": 1.0,
+          "precision": 0.9931506849315068,
           "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 10.0
+          "f1-score": 0.9965635738831615,
+          "support": 145.0
         },
         "Timetable and Scheduling": {
           "precision": 1.0,
           "recall": 1.0,
           "f1-score": 1.0,
-          "support": 10.0
+          "support": 148.0
         },
-        "accuracy": 1.0,
+        "accuracy": 0.9925768822905621,
         "macro avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9900584817414563,
+          "recall": 0.9949748743718593,
+          "f1-score": 0.9923971874664463,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9927929591855564,
+          "recall": 0.9925768822905621,
+          "f1-score": 0.9925653453160251,
+          "support": 943.0
         }
       }
     }
   },
   "urgency": {
     "majority": {
-      "accuracy": 0.44285714285714284,
-      "macro_f1": 0.20462046204620463,
-      "weighted_f1": 0.2718528995756719,
+      "accuracy": 0.33191940615058324,
+      "macro_f1": 0.16613588110403396,
+      "weighted_f1": 0.16543116898906457,
       "report": {
         "High": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 15.0
+          "support": 315.0
         },
         "Low": {
           "precision": 0.0,
           "recall": 0.0,
           "f1-score": 0.0,
-          "support": 24.0
+          "support": 315.0
         },
         "Medium": {
-          "precision": 0.44285714285714284,
+          "precision": 0.33191940615058324,
           "recall": 1.0,
-          "f1-score": 0.6138613861386139,
-          "support": 31.0
+          "f1-score": 0.4984076433121019,
+          "support": 313.0
         },
-        "accuracy": 0.44285714285714284,
+        "accuracy": 0.33191940615058324,
         "macro avg": {
-          "precision": 0.14761904761904762,
+          "precision": 0.11063980205019441,
           "recall": 0.3333333333333333,
-          "f1-score": 0.20462046204620463,
-          "support": 70.0
+          "f1-score": 0.16613588110403396,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 0.19612244897959183,
-          "recall": 0.44285714285714284,
-          "f1-score": 0.2718528995756719,
-          "support": 70.0
+          "precision": 0.11017049217935583,
+          "recall": 0.33191940615058324,
+          "f1-score": 0.16543116898906457,
+          "support": 943.0
         }
       }
     },
     "tfidf_lr": {
-      "accuracy": 1.0,
-      "macro_f1": 1.0,
-      "weighted_f1": 1.0,
+      "accuracy": 0.9459172852598091,
+      "macro_f1": 0.9450722896581395,
+      "weighted_f1": 0.9451381977436952,
       "report": {
         "High": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 15.0
+          "precision": 0.9223880597014925,
+          "recall": 0.9809523809523809,
+          "f1-score": 0.9507692307692308,
+          "support": 315.0
         },
         "Low": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 24.0
+          "precision": 0.9512195121951219,
+          "recall": 0.9904761904761905,
+          "f1-score": 0.9704510108864697,
+          "support": 315.0
         },
         "Medium": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 31.0
+          "precision": 0.9678571428571429,
+          "recall": 0.865814696485623,
+          "f1-score": 0.9139966273187183,
+          "support": 313.0
         },
-        "accuracy": 1.0,
+        "accuracy": 0.9459172852598091,
         "macro avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9471549049179191,
+          "recall": 0.9457477559713983,
+          "f1-score": 0.9450722896581395,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9471109977324701,
+          "recall": 0.9459172852598091,
+          "f1-score": 0.9451381977436952,
+          "support": 943.0
         }
       }
     },
     "tfidf_svm": {
-      "accuracy": 1.0,
-      "macro_f1": 1.0,
-      "weighted_f1": 1.0,
+      "accuracy": 0.9172852598091198,
+      "macro_f1": 0.9151664546225615,
+      "weighted_f1": 0.9152737358978302,
       "report": {
         "High": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 15.0
+          "precision": 0.9,
+          "recall": 0.9714285714285714,
+          "f1-score": 0.934351145038168,
+          "support": 315.0
         },
         "Low": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 24.0
+          "precision": 0.9117647058823529,
+          "recall": 0.9841269841269841,
+          "f1-score": 0.9465648854961832,
+          "support": 315.0
         },
         "Medium": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 31.0
+          "precision": 0.9467680608365019,
+          "recall": 0.7955271565495208,
+          "f1-score": 0.8645833333333334,
+          "support": 313.0
         },
-        "accuracy": 1.0,
+        "accuracy": 0.9172852598091198,
         "macro avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9195109222396183,
+          "recall": 0.9170275707016922,
+          "f1-score": 0.9151664546225615,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 1.0,
-          "recall": 1.0,
-          "f1-score": 1.0,
-          "support": 70.0
+          "precision": 0.9194531128258392,
+          "recall": 0.9172852598091198,
+          "f1-score": 0.9152737358978302,
+          "support": 943.0
         }
       }
     }

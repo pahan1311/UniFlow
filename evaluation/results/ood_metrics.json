@@ -1,13 +1,13 @@
 {
-  "auroc": 0.9028571428571429,
-  "fpr_at_tpr": 0.65,
-  "achieved_tpr": 0.9428571428571428,
+  "auroc": 0.9897667020148462,
+  "fpr_at_tpr": 0.0,
+  "achieved_tpr": 0.9628844114528102,
   "target_tpr": 0.95,
-  "threshold": -3.8951849937438965,
-  "ood_detection_rate": 0.75,
-  "in_distribution_diverted": 0.12857142857142856,
+  "threshold": -5.149641990661621,
+  "ood_detection_rate": 1.0,
+  "in_distribution_diverted": 0.044538706256627786,
   "probe_set_synthetic": true,
   "n_probe": 20,
-  "mean_energy_id": -4.9528069496154785,
+  "mean_energy_id": -5.397537708282471,
   "mean_energy_ood": -3.340843677520752
 }

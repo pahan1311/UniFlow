@@ -157,7 +157,7 @@ def main():
     if test.empty:
         raise SystemExit("Test split is empty; nothing to evaluate.")
 
-    from config import MODELS_DIR  # noqa: PLC0415
+    from policy_files import MODELS_DIR  # noqa: PLC0415
     backend = ("multitask"
                if (MODELS_DIR / "multitask" / "multitask_config.json").exists()
                else "dual")

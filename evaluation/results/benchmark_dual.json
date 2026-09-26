@@ -5,12 +5,12 @@
   "disk_mb": 674.5,
   "forward_passes_per_inquiry": 2,
   "latency": {
-    "median_ms": 111.81789997499436,
-    "mean_ms": 111.80813331156969,
-    "p95_ms": 114.61311999009922,
-    "min_ms": 108.68279996793717,
-    "max_ms": 114.92369999177754,
-    "iterations": 3
+    "median_ms": 364.3761999992421,
+    "mean_ms": 374.4485750008607,
+    "p95_ms": 466.0899050213629,
+    "min_ms": 293.12149999896064,
+    "max_ms": 551.7350000154693,
+    "iterations": 40
   },
   "device": "cpu",
   "torch_threads": 4,

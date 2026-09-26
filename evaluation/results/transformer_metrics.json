@@ -3,178 +3,178 @@
   "leakage_risk": false,
   "tasks": {
     "category": {
-      "accuracy": 0.9,
-      "macro_f1": 0.9001588473638165,
-      "weighted_f1": 0.897392255777349,
+      "accuracy": 0.9936373276776246,
+      "macro_f1": 0.9906152076807813,
+      "weighted_f1": 0.9935390078247351,
       "macro_f1_ci": {
-        "macro_f1": 0.9001588473638165,
-        "ci_low": 0.8074464605051849,
-        "ci_high": 0.9638070834394362,
+        "macro_f1": 0.9906152076807813,
+        "ci_low": 0.9823575638193741,
+        "ci_high": 0.9969099339531734,
         "confidence": 0.95,
         "n_resamples": 2000
       },
       "per_class": {
         "Academic Documents": {
-          "precision": 0.7692307692307693,
+          "precision": 0.9694656488549618,
           "recall": 1.0,
-          "f1-score": 0.8695652173913043,
-          "support": 10.0
+          "f1-score": 0.9844961240310077,
+          "support": 127.0
         },
         "Admissions": {
           "precision": 1.0,
-          "recall": 0.7142857142857143,
-          "f1-score": 0.8333333333333334,
-          "support": 14.0
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 144.0
         },
         "Examinations": {
           "precision": 1.0,
-          "recall": 0.75,
-          "f1-score": 0.8571428571428571,
-          "support": 8.0
+          "recall": 0.9166666666666666,
+          "f1-score": 0.9565217391304348,
+          "support": 72.0
         },
         "Fees and Payments": {
-          "precision": 0.9166666666666666,
+          "precision": 1.0,
           "recall": 1.0,
-          "f1-score": 0.9565217391304348,
-          "support": 11.0
+          "f1-score": 1.0,
+          "support": 199.0
         },
         "General Administration": {
           "precision": 1.0,
-          "recall": 0.8571428571428571,
-          "f1-score": 0.9230769230769231,
-          "support": 7.0
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 108.0
         },
         "Learning Platform / IT Access": {
-          "precision": 0.8333333333333334,
+          "precision": 1.0,
           "recall": 1.0,
-          "f1-score": 0.9090909090909091,
-          "support": 10.0
+          "f1-score": 1.0,
+          "support": 145.0
         },
         "Timetable and Scheduling": {
-          "precision": 0.9090909090909091,
+          "precision": 0.9866666666666667,
           "recall": 1.0,
-          "f1-score": 0.9523809523809523,
-          "support": 10.0
+          "f1-score": 0.9932885906040269,
+          "support": 148.0
         },
-        "accuracy": 0.9,
+        "accuracy": 0.9936373276776246,
         "macro avg": {
-          "precision": 0.9183316683316683,
-          "recall": 0.9030612244897959,
-          "f1-score": 0.9001588473638165,
-          "support": 70.0
+          "precision": 0.9937331879316612,
+          "recall": 0.988095238095238,
+          "f1-score": 0.9906152076807813,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 0.917141192141192,
-          "recall": 0.9,
-          "f1-score": 0.897392255777349,
-          "support": 70.0
+          "precision": 0.9937951262685544,
+          "recall": 0.9936373276776246,
+          "f1-score": 0.9935390078247351,
+          "support": 943.0
         }
       },
       "mcnemar": {
         "majority": {
-          "a_both_correct": 10,
-          "b": 53,
-          "c": 0,
-          "d_both_wrong": 7,
-          "p_value": 2.220446049250313e-16,
+          "a_both_correct": 66,
+          "b": 871,
+          "c": 6,
+          "d_both_wrong": 0,
+          "p_value": 1.2414817004804212e-249,
           "significant_at_05": true,
           "favours": "model"
         },
         "tfidf_lr": {
-          "a_both_correct": 63,
-          "b": 0,
-          "c": 7,
+          "a_both_correct": 923,
+          "b": 14,
+          "c": 6,
           "d_both_wrong": 0,
-          "p_value": 0.015625,
-          "significant_at_05": true,
-          "favours": "baseline"
+          "p_value": 0.11531829833984375,
+          "significant_at_05": false,
+          "favours": "model"
         },
         "tfidf_svm": {
-          "a_both_correct": 63,
-          "b": 0,
-          "c": 7,
+          "a_both_correct": 930,
+          "b": 7,
+          "c": 6,
           "d_both_wrong": 0,
-          "p_value": 0.015625,
-          "significant_at_05": true,
-          "favours": "baseline"
+          "p_value": 1.0,
+          "significant_at_05": false,
+          "favours": "model"
         }
       },
-      "n_test": 70
+      "n_test": 943
     },
     "urgency": {
-      "accuracy": 0.6857142857142857,
-      "macro_f1": 0.6574347062151941,
-      "weighted_f1": 0.6745440390039693,
+      "accuracy": 0.9809119830328739,
+      "macro_f1": 0.9808099500944373,
+      "weighted_f1": 0.9808314260456705,
       "macro_f1_ci": {
-        "macro_f1": 0.6574347062151941,
-        "ci_low": 0.5213934593711017,
-        "ci_high": 0.7739959747854485,
+        "macro_f1": 0.9808099500944373,
+        "ci_low": 0.9714427864679033,
+        "ci_high": 0.9893756220734252,
         "confidence": 0.95,
         "n_resamples": 2000
       },
       "per_class": {
         "High": {
-          "precision": 1.0,
-          "recall": 0.4,
-          "f1-score": 0.5714285714285714,
-          "support": 15.0
+          "precision": 0.9662576687116564,
+          "recall": 1.0,
+          "f1-score": 0.982839313572543,
+          "support": 315.0
         },
         "Low": {
-          "precision": 0.8235294117647058,
-          "recall": 0.5833333333333334,
-          "f1-score": 0.6829268292682927,
-          "support": 24.0
+          "precision": 0.9873417721518988,
+          "recall": 0.9904761904761905,
+          "f1-score": 0.9889064976228209,
+          "support": 315.0
         },
         "Medium": {
-          "precision": 0.5957446808510638,
-          "recall": 0.9032258064516129,
-          "f1-score": 0.717948717948718,
-          "support": 31.0
+          "precision": 0.9900332225913622,
+          "recall": 0.952076677316294,
+          "f1-score": 0.9706840390879479,
+          "support": 313.0
         },
-        "accuracy": 0.6857142857142857,
+        "accuracy": 0.9809119830328739,
         "macro avg": {
-          "precision": 0.8064246975385899,
-          "recall": 0.6288530465949821,
-          "f1-score": 0.6574347062151941,
-          "support": 70.0
+          "precision": 0.9812108878183058,
+          "recall": 0.9808509559308282,
+          "f1-score": 0.9808099500944373,
+          "support": 943.0
         },
         "weighted avg": {
-          "precision": 0.7604684426962275,
-          "recall": 0.6857142857142857,
-          "f1-score": 0.6745440390039693,
-          "support": 70.0
+          "precision": 0.9811921766098793,
+          "recall": 0.9809119830328739,
+          "f1-score": 0.9808314260456705,
+          "support": 943.0
         }
       },
       "mcnemar": {
         "majority": {
-          "a_both_correct": 28,
-          "b": 20,
-          "c": 3,
-          "d_both_wrong": 19,
-          "p_value": 0.00048828125,
+          "a_both_correct": 298,
+          "b": 627,
+          "c": 15,
+          "d_both_wrong": 3,
+          "p_value": 9.445169652388304e-164,
           "significant_at_05": true,
           "favours": "model"
         },
         "tfidf_lr": {
-          "a_both_correct": 48,
-          "b": 0,
-          "c": 22,
-          "d_both_wrong": 0,
-          "p_value": 4.76837158203125e-07,
+          "a_both_correct": 886,
+          "b": 39,
+          "c": 6,
+          "d_both_wrong": 12,
+          "p_value": 5.417768988991156e-07,
           "significant_at_05": true,
-          "favours": "baseline"
+          "favours": "model"
         },
         "tfidf_svm": {
-          "a_both_correct": 48,
-          "b": 0,
-          "c": 22,
-          "d_both_wrong": 0,
-          "p_value": 4.76837158203125e-07,
+          "a_both_correct": 860,
+          "b": 65,
+          "c": 5,
+          "d_both_wrong": 13,
+          "p_value": 2.215352840138473e-14,
           "significant_at_05": true,
-          "favours": "baseline"
+          "favours": "model"
         }
       },
-      "n_test": 70
+      "n_test": 943
     }
   }
 }
